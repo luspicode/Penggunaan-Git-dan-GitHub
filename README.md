@@ -1,1 +1,1 @@
-hello, ini adalah tugas strukdat tentang penggunaan git dan github
+hello, ini adalah tugas strukur data tentang penggunaan git dan github
